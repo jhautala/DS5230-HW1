@@ -1,0 +1,13 @@
+name: assign_1_venv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas=1.5.2
+  - scikit-learn=1.2.0
+  - matplotlib=3.6.3
+  - seaborn=0.12.2
+  - notebook=6.5.2
+  - jupyterlab=3.5.2
+  - numpy=1.24.1
